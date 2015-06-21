@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon addon_id="xenmig_portal_xfmg_widget" title="xenMiG Portal - XFMG Widget" version_string="1.0.0" version_id="100001" url="https://www.it-maku.com" install_callback_class="" install_callback_method="" uninstall_callback_class="" uninstall_callback_method="">
+  <admin_navigation/>
+  <admin_permissions/>
+  <admin_style_properties/>
+  <admin_templates/>
+  <admin_template_modifications/>
+  <code_events/>
+  <code_event_listeners/>
+  <cron/>
+  <email_templates/>
+  <email_template_modifications/>
+  <optiongroups/>
+  <permissions>
+    <permission_groups/>
+    <permissions/>
+    <interface_groups/>
+  </permissions>
+  <phrases>
+    <phrase title="xenmig_portal_widget_xfmg_albums" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Albums]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_albums_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Choose if you want to include or not images from albums.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_captions" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Captions]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_captions_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Show captions on hover, or always hide?]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_categories" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Categories]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_categories_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Use a comma separated list to display images from selected categories e.g. 2,3,5,7. Set to 'all' to include all categories, 0 to exclude.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_excludeAlbums" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Exclude Images from Albums]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_hideCaptions" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Hide]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_hoverCaptions" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Hover]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_includeAlbums" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Include Images from Albums]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_isSidebarBlock" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Yes]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_items" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Items]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_items_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Any number. Number of images that are visible in the slider.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_limit" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Limit]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_limit_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Any number. Number of images to be loaded (not all are visible).]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_noResponsive" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Fixed]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_noSidebarBlock" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[No]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_responsive" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Responsive]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_responsive_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Responsive will show more images at a smaller size at narrower browser widths, fixed will keep the number of images set in "Items" at the same size whatever the browser width.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_sidebarBlock" version_id="100001" version_string="1.0.0"><![CDATA[Sidebar block]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_sidebarBlock_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Sets the styling so it will look like a sidebar block.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_slideWidth" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Slide width]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_slideWidth_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[This is the width of each slide in the slider. The slides may not be exactly this width due to responsive design resizing them dynamically.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_title" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Title]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_title_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[The title will be displayed at the head of the widget in the portal.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_type" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Type]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_type_desc" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[The type of the selection. You can set 'new' or 'rand' for random.]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_type_new" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[New]]></phrase>
+    <phrase title="xenmig_portal_widget_xfmg_type_random" global_cache="1" version_id="100001" version_string="1.0.0"><![CDATA[Random]]></phrase>
+  </phrases>
+  <route_prefixes/>
+  <style_properties/>
+  <templates>
+    <template title="xenmig_portal_widget_xfmg" version_id="100001" version_string="1.0.0"><![CDATA[<xen:include template="xengallery_media_block">
+    <xen:set var="$blockPhrase">{$configuration.xfmg_title}</xen:set> // Use either {xen:phrase xengallery_new_media}, {xen:phrase xengallery_random_media} or your own custom title
+    <xen:set var="$blockId">XMGMediaForumListSidebar</xen:set> // This can be changed but must be something unique.
+    <xen:set var="$type">{$configuration.xfmg_type}</xen:set> // You can set this to 'rand' for a random selection.
+    <xen:set var="$items">{$configuration.items}</xen:set> // Any number. Number of images that are visible in the slider.
+    <xen:set var="$limit">{$configuration.limit}</xen:set> // Any number. Number of images to be loaded (not all are visible).
+    <xen:set var="$slideWidth">{$configuration.slideWidth}</xen:set> // This is the width of each slide in the slider. The slides may not be exactly this width due to responsive design resizing them dynamically.
+    <xen:set var="$categories">{$configuration.categories}</xen:set> // Use a comma separated list to display images from selected categories e.g. 2,3,5,7. Set to 'all' to include all categories, 0 to exclude
+    <xen:set var="$albums">{$configuration.albums}</xen:set> // Set to 1 to include images from albums, 0 to exclude
+    <xen:set var="$isSidebarBlock">{$configuration.sidebarBlock}</xen:set> // Sets the styling so it will look like a sidebar block
+    <xen:set var="$captions">{$configuration.captions}</xen:set> // Set to 1 to show captions on hover, set to 0 to always hide.
+    <xen:set var="$noResponsive">{$configuration.responsive}</xen:set> // Set to 0 for responsive, 1 for fixed. Responsive will show more images at a smaller size at narrower browser widths, fixed will keep the number of images set in $items at the same size whatever the browser width.
+</xen:include>]]></template>
+    <template title="xenmig_portal_widget_xfmg.css" version_id="100001" version_string="1.0.0"><![CDATA[]]></template>
+  </templates>
+  <public_template_modifications/>
+  <bb_code_media_sites/>
+  <bb_codes/>
+</addon>
