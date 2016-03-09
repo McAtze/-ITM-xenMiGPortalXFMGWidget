@@ -1,6 +1,6 @@
 ## -ITM- xenMiG Portal XFMG-Widget
 
-This Widget requires the * [Xenforo Media Gallery Addon](https://xenforo.com/purchase/).
+This Widget requires the [Xenforo Media Gallery Addon](https://xenforo.com/purchase/).
 
 1. Just upload the files in the root directory
 2. Install the XML
