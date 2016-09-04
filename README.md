@@ -9,9 +9,9 @@ This Widget requires the [Xenforo Media Gallery Addon](https://xenforo.com/purch
 
 ## Screenshots
 
-![XFMG-001](https://cdn.it-maku.com/git/xfmg/xfmg-1.png)
+![XFMG-001](https://maxcdn.it-maku.com/git/xfmg/xfmg-1.png)
 =============
-![XFMG-002](https://cdn.it-maku.com/git/xfmg/xfmg-2.png)
+![XFMG-002](https://maxcdn.it-maku.com/git/xfmg/xfmg-2.png)
 
 ## Support and Suggestions
 
